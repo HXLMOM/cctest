@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-08T09:25:13.100Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="BhFgNpkkE11laAdi7NpV" version="12.4.9" type="github">
+<mxfile host="www.draw.io" modified="2020-01-08T09:26:40.385Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="4xbiIXPG-o8orEod6Zhh" version="12.4.9" type="github">
   <diagram id="JnsvD_CBXU-Z5nkuWE4w" name="第 1 页">
     <mxGraphModel dx="1846" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,13 +11,13 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="opibzfYZtkB8a10u-S0Q-78" value="服务器&lt;br&gt;" style="whiteSpace=wrap;aspect=fixed;fillColor=none;dashed=1;strokeColor=#6C8EBF;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;labelBorderColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="700" y="169.5" width="220" height="220" as="geometry"/>
+          <mxGeometry x="700" y="260" width="220" height="220" as="geometry"/>
         </mxCell>
         <mxCell id="opibzfYZtkB8a10u-S0Q-80" value="HIS服务器" style="whiteSpace=wrap;aspect=fixed;fillColor=none;dashed=1;strokeColor=#6C8EBF;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;labelBorderColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="169.5" width="220" height="220" as="geometry"/>
+          <mxGeometry x="1050" y="199.5" width="220" height="220" as="geometry"/>
         </mxCell>
         <mxCell id="opibzfYZtkB8a10u-S0Q-73" value="办公室" style="whiteSpace=wrap;aspect=fixed;fillColor=none;dashed=1;strokeColor=#6C8EBF;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;labelBorderColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="700" y="440" width="220" height="220" as="geometry"/>
+          <mxGeometry x="700" y="574.5" width="220" height="220" as="geometry"/>
         </mxCell>
         <mxCell id="opibzfYZtkB8a10u-S0Q-57" value="发衣柜" style="whiteSpace=wrap;aspect=fixed;fillColor=none;dashed=1;strokeColor=#6C8EBF;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;labelBorderColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="140" y="199.5" width="220" height="220" as="geometry"/>
@@ -71,12 +71,17 @@
           <mxGeometry x="827" y="230" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="opibzfYZtkB8a10u-S0Q-76" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#83CA73;fontSize=20;" edge="1" parent="1" source="opibzfYZtkB8a10u-S0Q-61" target="opibzfYZtkB8a10u-S0Q-73">
-          <mxGeometry relative="1" as="geometry"/>
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="565"/>
+              <mxPoint x="610" y="720"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="opibzfYZtkB8a10u-S0Q-61" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="415" width="100" height="30" as="geometry"/>
+          <mxGeometry x="470" y="550" width="100" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="opibzfYZtkB8a10u-S0Q-63" value="" style="endArrow=none;html=1;startArrow=none;startFill=0;endFill=0;strokeColor=#83CA73;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="opibzfYZtkB8a10u-S0Q-57" target="opibzfYZtkB8a10u-S0Q-61">
+        <mxCell id="opibzfYZtkB8a10u-S0Q-63" value="" style="endArrow=none;html=1;startArrow=none;startFill=0;endFill=0;strokeColor=#83CA73;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="opibzfYZtkB8a10u-S0Q-57" target="opibzfYZtkB8a10u-S0Q-61">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="420" y="240" as="sourcePoint"/>
             <mxPoint x="520" y="140" as="targetPoint"/>
@@ -88,10 +93,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="opibzfYZtkB8a10u-S0Q-72" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="530" width="100" height="70" as="geometry"/>
+          <mxGeometry x="750" y="660" width="100" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="opibzfYZtkB8a10u-S0Q-82" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="1030" y="199.5" width="80" height="80" as="geometry"/>
+          <mxGeometry x="1140" y="290" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="opibzfYZtkB8a10u-S0Q-93" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#83CA73;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="opibzfYZtkB8a10u-S0Q-86" target="opibzfYZtkB8a10u-S0Q-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="430" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="opibzfYZtkB8a10u-S0Q-86" value="更衣柜&lt;br&gt;" style="whiteSpace=wrap;aspect=fixed;fillColor=none;dashed=1;strokeColor=#6C8EBF;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;labelBorderColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="140" y="730" width="220" height="220" as="geometry"/>

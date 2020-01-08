@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-08T09:32:18.516Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="F3daHUG6NNKuQvd06W4q" version="12.4.9" type="github">
+<mxfile host="www.draw.io" modified="2020-01-08T09:32:59.026Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="1kLV5u8INmdZPsHNF5Wc" version="12.4.9" type="github">
   <diagram id="JnsvD_CBXU-Z5nkuWE4w" name="第 1 页">
     <mxGraphModel dx="1019" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,6 +84,10 @@
         <mxCell id="opibzfYZtkB8a10u-S0Q-69" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#83CA73;fontSize=20;" edge="1" parent="1" source="opibzfYZtkB8a10u-S0Q-64" target="opibzfYZtkB8a10u-S0Q-61">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="533" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="416" y="571"/>
+              <mxPoint x="416" y="565"/>
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="opibzfYZtkB8a10u-S0Q-72" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;dashed=1;" vertex="1" parent="1">
@@ -99,6 +103,9 @@
         </mxCell>
         <mxCell id="opibzfYZtkB8a10u-S0Q-86" value="智能更衣柜" style="whiteSpace=wrap;aspect=fixed;fillColor=none;dashed=1;strokeColor=#6C8EBF;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;labelBorderColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="140" y="980" width="220" height="220" as="geometry"/>
+        </mxCell>
+        <mxCell id="opibzfYZtkB8a10u-S0Q-108" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#83CA73;fontSize=20;" edge="1" parent="1" source="opibzfYZtkB8a10u-S0Q-96" target="opibzfYZtkB8a10u-S0Q-61">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="opibzfYZtkB8a10u-S0Q-96" value="智能鞋柜" style="whiteSpace=wrap;aspect=fixed;fillColor=none;dashed=1;strokeColor=#6C8EBF;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;labelBorderColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="140" y="710" width="220" height="220" as="geometry"/>

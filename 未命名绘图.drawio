@@ -1,29 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T02:13:04.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="M6DDiwqqkkajESQXlIp_" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T02:18:50.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="h4NlgPgo1miUwTyDC8Ct" version="21.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1420" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="JgF6PHgrRjRVW072W-fC-0" value="打印\录入标签时，软件录入标签信息（尺码，类型，唯一标识，标签号，备注）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="JgF6PHgrRjRVW072W-fC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JgF6PHgrRjRVW072W-fC-0" target="JgF6PHgrRjRVW072W-fC-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JgF6PHgrRjRVW072W-fC-1" value="存入柜体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="JgF6PHgrRjRVW072W-fC-0" value="打印\录入标签时，软件录入标签信息（尺码，类型，唯一标识，标签号，备注）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="260" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JgF6PHgrRjRVW072W-fC-2" value="关柜门后盘点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="JgF6PHgrRjRVW072W-fC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JgF6PHgrRjRVW072W-fC-1" target="JgF6PHgrRjRVW072W-fC-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JgF6PHgrRjRVW072W-fC-3" value="柜体软件上传数据到服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="550" width="120" height="60" as="geometry" />
+        <mxCell id="JgF6PHgrRjRVW072W-fC-1" value="存入柜体" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="295" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JgF6PHgrRjRVW072W-fC-6" value="开始" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="40" width="120" height="80" as="geometry" />
+        <mxCell id="JgF6PHgrRjRVW072W-fC-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JgF6PHgrRjRVW072W-fC-2" target="JgF6PHgrRjRVW072W-fC-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JgF6PHgrRjRVW072W-fC-7" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="650" width="120" height="80" as="geometry" />
+        <mxCell id="JgF6PHgrRjRVW072W-fC-2" value="关柜门后盘点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="295" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JgF6PHgrRjRVW072W-fC-8" value="标签打印\录入软件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="JgF6PHgrRjRVW072W-fC-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JgF6PHgrRjRVW072W-fC-3" target="JgF6PHgrRjRVW072W-fC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JgF6PHgrRjRVW072W-fC-3" value="柜体软件上传数据到服务器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="295" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JgF6PHgrRjRVW072W-fC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JgF6PHgrRjRVW072W-fC-6" target="JgF6PHgrRjRVW072W-fC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JgF6PHgrRjRVW072W-fC-6" value="开始" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="295" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JgF6PHgrRjRVW072W-fC-7" value="结束" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="295" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JgF6PHgrRjRVW072W-fC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JgF6PHgrRjRVW072W-fC-8" target="JgF6PHgrRjRVW072W-fC-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JgF6PHgrRjRVW072W-fC-8" value="标签打印\录入软件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="295" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JgF6PHgrRjRVW072W-fC-15" value="标签的录入与入柜" style="glass=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;fontColor=default;textDirection=rtl;direction=south;rotation=0;whiteSpace=wrap;fontSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="110" width="40" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

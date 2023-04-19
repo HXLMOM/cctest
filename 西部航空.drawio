@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T09:02:36.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="eteQztQb3rAaPW2x-aIn" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T09:04:44.754Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yiZ4yyOYWXNWn9pF0MbF" version="21.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1673" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,8 +67,8 @@
         <mxCell id="9mtY81VaupOErwktvLHW-15" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/mainframe.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="632.24" y="290.0018181818182" width="94.73" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="9mtY81VaupOErwktvLHW-43" value="服务器&lt;div style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: center; padding: 0px; margin: 0px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="1169" width="110" height="40" as="geometry" />
+        <mxCell id="9mtY81VaupOErwktvLHW-43" value="服务器系统 ：&amp;nbsp;Windows Server 2019&lt;br&gt;数据库软件：&amp;nbsp;MSSQL 2019&lt;br&gt;系统配置：IIS" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="1169" width="250" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

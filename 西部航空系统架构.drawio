@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T03:20:39.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="JKPmsdlSzsnYdhbp_fbv" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T03:25:31.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="h8Y1oNvAMAPOCmmrPxSY" version="21.1.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1420" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,6 +150,33 @@
         </mxCell>
         <mxCell id="8jzJQ11-NJ104oRO7Ddy-57" value="外部数据接口集成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=25;fontStyle=1;fontFamily=微软雅黑;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="600" width="680" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="8jzJQ11-NJ104oRO7Ddy-58" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=23;dx=21;notch=108;arrowHead=29;fillColor=#cdeb8b;strokeColor=#36393d;rotation=-90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="347.5" y="387.5" width="140" height="675" as="geometry" />
+        </mxCell>
+        <mxCell id="8jzJQ11-NJ104oRO7Ddy-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="690" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8jzJQ11-NJ104oRO7Ddy-60" value="排班数据获取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="720" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8jzJQ11-NJ104oRO7Ddy-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="265" y="690" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8jzJQ11-NJ104oRO7Ddy-62" value="器械柜通讯数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="275" y="720" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8jzJQ11-NJ104oRO7Ddy-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="690" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8jzJQ11-NJ104oRO7Ddy-65" value="操作台通讯数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="451" y="720" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8jzJQ11-NJ104oRO7Ddy-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="690" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8jzJQ11-NJ104oRO7Ddy-67" value="终端查询" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="720" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

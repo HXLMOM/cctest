@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T03:18:01.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="G2hXYEWsUKAXZjcjzQRf" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T03:19:44.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="BDcMmF-MrhTkKKWfQ_ii" version="21.1.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1420" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,10 +125,28 @@
           <mxGeometry x="10" y="150" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8jzJQ11-NJ104oRO7Ddy-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="490" width="560" height="80" as="geometry" />
+          <mxGeometry x="200" y="490" width="490" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8jzJQ11-NJ104oRO7Ddy-49" value="数据集中管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="490" width="100" height="30" as="geometry" />
+          <mxGeometry x="390" y="490" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8jzJQ11-NJ104oRO7Ddy-50" value="人员维护" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="530" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8jzJQ11-NJ104oRO7Ddy-51" value="参数设置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="530" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8jzJQ11-NJ104oRO7Ddy-53" value="权限维护" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="530" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8jzJQ11-NJ104oRO7Ddy-54" value="数据备份" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="530" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8jzJQ11-NJ104oRO7Ddy-55" value="数据还原" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="530" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8jzJQ11-NJ104oRO7Ddy-56" value="数据转储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="530" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

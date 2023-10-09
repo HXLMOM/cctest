@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T09:32:49.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Wul9jV5BfCxwTjoLzzYs" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T09:37:57.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="IpsKJ65_eD3BVmtTcT6V" version="22.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="942" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,8 +31,8 @@
         <mxCell id="RwmI-evT2SCQZ0IKeee1-12" value="本地服务器每5分钟&lt;br&gt;调用接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RwmI-evT2SCQZ0IKeee1-13" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;航班信息&lt;br&gt;1、&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="90" width="140" height="70" as="geometry" />
+        <mxCell id="RwmI-evT2SCQZ0IKeee1-13" value="    航班信息&#xa;1、日期&#xa;2、航班号&#xa;3、时间&#xa;4、航段 英文&#xa;5、航段中文&#xa;6、员工号&#xa;7、姓名&#xa;8、手机号&#xa;9、角色 - (安全员-组长)&#xa;10、计划离港时间&#xa;11、计划落地时间&#xa;12、实际落地时间&#xa;13、起飞地&#xa;14、目的地&#xa;&#xa;&#xa;" style="strokeWidth=2;shape=mxgraph.flowchart.document2;size=0.25;align=left;whiteSpace=wrap;labelBackgroundColor=none;labelBorderColor=none;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="40" width="160" height="300" as="geometry" />
         </mxCell>
         <mxCell id="RwmI-evT2SCQZ0IKeee1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RwmI-evT2SCQZ0IKeee1-14" target="RwmI-evT2SCQZ0IKeee1-20">
           <mxGeometry relative="1" as="geometry" />

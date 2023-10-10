@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T07:13:20.658Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="GM8vbA47WcSEVgGqpEUu" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T07:14:02.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="K9-ywSU5YfIBF4GWXbn6" version="22.0.4" type="github">
   <diagram name="第 1 页" id="SkHKClR9cK3O8PpVPhYR">
     <mxGraphModel dx="1195" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,38 @@
         <mxCell id="jl1IXmYqZeM7pOf_BYv7-1" value="器械柜领用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="50" y="40" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jl1IXmYqZeM7pOf_BYv7-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jl1IXmYqZeM7pOf_BYv7-2" target="jl1IXmYqZeM7pOf_BYv7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jl1IXmYqZeM7pOf_BYv7-2" value="开始" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jl1IXmYqZeM7pOf_BYv7-3" value="门禁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="242.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jl1IXmYqZeM7pOf_BYv7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jl1IXmYqZeM7pOf_BYv7-4" target="jl1IXmYqZeM7pOf_BYv7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jl1IXmYqZeM7pOf_BYv7-4" value="本地服务器每5分钟&lt;br&gt;调用接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="243" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jl1IXmYqZeM7pOf_BYv7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jl1IXmYqZeM7pOf_BYv7-5" target="jl1IXmYqZeM7pOf_BYv7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jl1IXmYqZeM7pOf_BYv7-5" value="3天航班信息&#xa;" style="strokeWidth=2;shape=mxgraph.flowchart.document2;size=0.25;align=center;whiteSpace=wrap;labelBackgroundColor=none;labelBorderColor=none;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="642" y="160" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jl1IXmYqZeM7pOf_BYv7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jl1IXmYqZeM7pOf_BYv7-6" target="jl1IXmYqZeM7pOf_BYv7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jl1IXmYqZeM7pOf_BYv7-6" value="3天排班计划" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="642" y="240.5" width="160" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="jl1IXmYqZeM7pOf_BYv7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jl1IXmYqZeM7pOf_BYv7-7" target="jl1IXmYqZeM7pOf_BYv7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jl1IXmYqZeM7pOf_BYv7-7" value="签到信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="642" y="320" width="160" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

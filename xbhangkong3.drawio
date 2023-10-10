@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T07:21:03.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="dvWTT4n5X9G0zlzw--AB" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T07:21:46.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="jdMPNyW7N_YhieaEWePL" version="22.0.4" type="github">
   <diagram name="第 1 页" id="SkHKClR9cK3O8PpVPhYR">
     <mxGraphModel dx="1195" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,12 +88,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jl1IXmYqZeM7pOf_BYv7-21" value="获取器械类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jl1IXmYqZeM7pOf_BYv7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jl1IXmYqZeM7pOf_BYv7-23" target="jl1IXmYqZeM7pOf_BYv7-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jl1IXmYqZeM7pOf_BYv7-23" value="领出器械" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jl1IXmYqZeM7pOf_BYv7-23" value="开门、领出器械" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jl1IXmYqZeM7pOf_BYv7-24" value="扫描、拍照" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T07:54:58.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="JUDvQ9Y70RPGslXw_y3q" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T07:55:17.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="EGCEPeXXl5nvz0uASKsP" version="22.0.4" type="github">
   <diagram name="第 1 页" id="omGtUQTlMdmAvcbF8myk">
     <mxGraphModel dx="1434" dy="1927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,12 @@
         </mxCell>
         <mxCell id="INWIUYFZAx7VzkQTHGjk-6" value="器械损坏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="-730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="INWIUYFZAx7VzkQTHGjk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INWIUYFZAx7VzkQTHGjk-11" target="INWIUYFZAx7VzkQTHGjk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INWIUYFZAx7VzkQTHGjk-11" value="    3天航班信息&#xa;&#xa;&#xa;" style="strokeWidth=2;shape=mxgraph.flowchart.document2;size=0.25;align=left;whiteSpace=wrap;labelBackgroundColor=none;labelBorderColor=none;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-975" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

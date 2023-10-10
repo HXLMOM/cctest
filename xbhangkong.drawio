@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T03:27:17.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="_FK3OtfK67xrDeEQ57Ts" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T06:06:56.261Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ORoTatiL43vg5EA4-R9-" version="22.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="889" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RwmI-evT2SCQZ0IKeee1-3" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="20" width="100" height="60" as="geometry" />
+          <mxGeometry x="190" y="-110" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RwmI-evT2SCQZ0IKeee1-5" value="领用提醒" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="20" width="120" height="40" as="geometry" />
@@ -29,13 +29,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RwmI-evT2SCQZ0IKeee1-12" value="本地服务器每5分钟&lt;br&gt;调用接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RwmI-evT2SCQZ0IKeee1-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RwmI-evT2SCQZ0IKeee1-13" target="RwmI-evT2SCQZ0IKeee1-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="190" />
-              <mxPoint x="400" y="150" />
+              <mxPoint x="400" y="30" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -48,22 +48,24 @@
         <mxCell id="RwmI-evT2SCQZ0IKeee1-14" value="语音模块拨打安全员电话" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RwmI-evT2SCQZ0IKeee1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RwmI-evT2SCQZ0IKeee1-15" target="RwmI-evT2SCQZ0IKeee1-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="RwmI-evT2SCQZ0IKeee1-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RwmI-evT2SCQZ0IKeee1-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="RwmI-evT2SCQZ0IKeee1-19" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RwmI-evT2SCQZ0IKeee1-16">
-          <mxGeometry x="-0.2" y="-3" relative="1" as="geometry">
+        <mxCell id="RwmI-evT2SCQZ0IKeee1-82" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RwmI-evT2SCQZ0IKeee1-81">
+          <mxGeometry x="-0.0261" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RwmI-evT2SCQZ0IKeee1-15" value="是否到提醒时间" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="210" width="100" height="100" as="geometry" />
+          <mxGeometry x="190" y="100" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RwmI-evT2SCQZ0IKeee1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RwmI-evT2SCQZ0IKeee1-20" target="RwmI-evT2SCQZ0IKeee1-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="160" y="520" />
-              <mxPoint x="160" y="150" />
+              <mxPoint x="160" y="30" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -174,22 +176,22 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="525" />
-              <mxPoint x="400" y="150" />
+              <mxPoint x="400" y="30" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RwmI-evT2SCQZ0IKeee1-58" value="&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;3天近期排班计划&lt;br&gt;1、日期&lt;br&gt;2、航班号&lt;br&gt;3、起飞时间&lt;br&gt;4、落地时间&lt;br&gt;5、航段中文&lt;br&gt;6、员工号&lt;br&gt;7、姓名&lt;br&gt;8、手机号&lt;br&gt;9、角色&amp;nbsp; (安全员-组长)&lt;br&gt;10、类型别(是否加班组)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;verticalAlign=top;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="RwmI-evT2SCQZ0IKeee1-58" value="&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;3天近期排班计划&lt;br&gt;1、日期&lt;br&gt;2、航班号&lt;br&gt;3、飞机号&lt;br&gt;4、起飞时间&lt;br&gt;5、落地时间&lt;br&gt;6、航段中文&lt;br&gt;7、员工号&lt;br&gt;8、姓名&lt;br&gt;9、手机号&lt;br&gt;10、角色&amp;nbsp; (安全员-组长)&lt;br&gt;11、类型别(是否加班组)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;verticalAlign=top;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="380" width="160" height="290" as="geometry" />
         </mxCell>
         <mxCell id="RwmI-evT2SCQZ0IKeee1-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RwmI-evT2SCQZ0IKeee1-59" target="RwmI-evT2SCQZ0IKeee1-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="900" />
-              <mxPoint x="400" y="150" />
+              <mxPoint x="400" y="30" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RwmI-evT2SCQZ0IKeee1-59" value="&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;签到信息&lt;br&gt;1、日期&lt;br&gt;2、航班号&lt;br&gt;3、签到时间&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;verticalAlign=top;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="RwmI-evT2SCQZ0IKeee1-59" value="&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;签到信息&lt;br&gt;1、日期&lt;br&gt;2、航班号&lt;br&gt;3、签到时间&lt;br&gt;4、员工号&lt;br&gt;5、姓名&lt;br&gt;6、状态 (未签到、正常签到、晚签到、提前签到)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;verticalAlign=top;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="750" width="160" height="300" as="geometry" />
         </mxCell>
         <mxCell id="RwmI-evT2SCQZ0IKeee1-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RwmI-evT2SCQZ0IKeee1-62" target="RwmI-evT2SCQZ0IKeee1-13">
@@ -209,6 +211,35 @@
         </mxCell>
         <mxCell id="RwmI-evT2SCQZ0IKeee1-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.013;entryY=0.48;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RwmI-evT2SCQZ0IKeee1-66" target="RwmI-evT2SCQZ0IKeee1-59">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RwmI-evT2SCQZ0IKeee1-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RwmI-evT2SCQZ0IKeee1-73" target="RwmI-evT2SCQZ0IKeee1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RwmI-evT2SCQZ0IKeee1-78" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RwmI-evT2SCQZ0IKeee1-76">
+          <mxGeometry x="-0.15" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RwmI-evT2SCQZ0IKeee1-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RwmI-evT2SCQZ0IKeee1-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RwmI-evT2SCQZ0IKeee1-80" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RwmI-evT2SCQZ0IKeee1-79">
+          <mxGeometry x="-0.0279" y="1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RwmI-evT2SCQZ0IKeee1-73" value="是否签到" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="230" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RwmI-evT2SCQZ0IKeee1-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RwmI-evT2SCQZ0IKeee1-15" target="RwmI-evT2SCQZ0IKeee1-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RwmI-evT2SCQZ0IKeee1-75" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RwmI-evT2SCQZ0IKeee1-74">
+          <mxGeometry x="-0.25" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

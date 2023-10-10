@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T07:55:17.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="EGCEPeXXl5nvz0uASKsP" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T07:56:49.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="uYtV2X3ZymgzaZYa8lfZ" version="22.0.4" type="github">
   <diagram name="第 1 页" id="omGtUQTlMdmAvcbF8myk">
     <mxGraphModel dx="1434" dy="1927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,17 +28,43 @@
         <mxCell id="INWIUYFZAx7VzkQTHGjk-4" value="安全员A登录网页服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="-850" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="INWIUYFZAx7VzkQTHGjk-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="INWIUYFZAx7VzkQTHGjk-5" target="INWIUYFZAx7VzkQTHGjk-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="INWIUYFZAx7VzkQTHGjk-5" value="器械交接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="-730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="INWIUYFZAx7VzkQTHGjk-6" value="器械损坏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-730" width="120" height="60" as="geometry" />
+        <mxCell id="INWIUYFZAx7VzkQTHGjk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INWIUYFZAx7VzkQTHGjk-6" target="INWIUYFZAx7VzkQTHGjk-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="-410" />
+              <mxPoint x="240" y="-410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INWIUYFZAx7VzkQTHGjk-6" value="器械损坏报备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-729" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="INWIUYFZAx7VzkQTHGjk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INWIUYFZAx7VzkQTHGjk-11" target="INWIUYFZAx7VzkQTHGjk-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="INWIUYFZAx7VzkQTHGjk-11" value="    3天航班信息&#xa;&#xa;&#xa;" style="strokeWidth=2;shape=mxgraph.flowchart.document2;size=0.25;align=left;whiteSpace=wrap;labelBackgroundColor=none;labelBorderColor=none;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="414" y="-975" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="INWIUYFZAx7VzkQTHGjk-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INWIUYFZAx7VzkQTHGjk-13" target="INWIUYFZAx7VzkQTHGjk-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INWIUYFZAx7VzkQTHGjk-13" value="安全员B登录网页服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-614.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="INWIUYFZAx7VzkQTHGjk-15" value="确认" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="INWIUYFZAx7VzkQTHGjk-17" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-369" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="INWIUYFZAx7VzkQTHGjk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="INWIUYFZAx7VzkQTHGjk-15" target="INWIUYFZAx7VzkQTHGjk-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

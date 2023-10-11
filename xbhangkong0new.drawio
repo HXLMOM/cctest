@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T07:15:14.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="9211uSwZUgFmk_P9wVHN" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T07:29:53.025Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="5McBc_UsWbL5entTH9QO" version="22.0.4" type="github">
   <diagram name="第 1 页" id="z93fDyGZTfizKJ3x5TF0">
-    <mxGraphModel dx="1716" dy="2324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="699" dy="2808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,8 +21,8 @@
         <mxCell id="jo4N5lZXsadOkr9-SdVL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jo4N5lZXsadOkr9-SdVL-6" target="jo4N5lZXsadOkr9-SdVL-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jo4N5lZXsadOkr9-SdVL-6" value=" 3天航班信息&#xa;1、日期&#xa;2、航班号&#xa;3、飞机号&#xa;4、航段 英文&#xa;5、航段中文&#xa;6、员工号&#xa;7、姓名&#xa;8、手机号&#xa;9、角色 - (安全员-组长)&#xa;10、计划离港时间&#xa;11、计划落地时间&#xa;12、到港时间&#xa;13、起飞地&#xa;14、目的地" style="strokeWidth=2;shape=mxgraph.flowchart.document2;size=0.25;align=left;whiteSpace=wrap;labelBackgroundColor=none;labelBorderColor=none;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-1159" width="160" height="270" as="geometry" />
+        <mxCell id="jo4N5lZXsadOkr9-SdVL-6" value=" 3天航班信息&#xa;1、日期&#xa;2、航班号&#xa;3、起飞机场&#xa;4、目的机场&#xa;5、航班状态&#xa;6、飞机号&#xa;7、计划离港&#xa;8、离港&#xa;9、计划到港&#xa;10、到港&#xa;11、员工号&#xa;12、姓名&#xa;13、手机号&#xa;14、角色 - (安全员-组长)&#xa;15、安全员人数" style="strokeWidth=2;shape=mxgraph.flowchart.document2;size=0.25;align=left;whiteSpace=wrap;labelBackgroundColor=none;labelBorderColor=none;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-1200" width="160" height="300" as="geometry" />
         </mxCell>
         <mxCell id="jo4N5lZXsadOkr9-SdVL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jo4N5lZXsadOkr9-SdVL-8" target="jo4N5lZXsadOkr9-SdVL-16">
           <mxGeometry relative="1" as="geometry" />
